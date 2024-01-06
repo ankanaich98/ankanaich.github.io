@@ -8,13 +8,13 @@
 - Secondary School Certificate	         | Motijheel Ideal School and College (_2015_)	
 
 ## Work Experience
-**Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
-- Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
-- Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
+**AI Intern @ DevTechGuru (_December 2023 - Present_)**
+- Trained and Enhanced the efficiency of computer vision models through optimization techniques for superior performance
+- Designed intuitive user interfaces to facilitate user interaction with machine learning applications
 
-**Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
-- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
-- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
+**Software Intern @ Tech Cloud Ltd. (_May 2023 - August 2023_)**
+- Orchestrated end-to-end development, crafting both the backend and frontend components for dynamic web applications
+- Oversaw and maintained databases integral to the seamless functionality of web applications, ensuring optimal performance and reliability 
 
 ## Projects
 ### Data-Driven EEG Band Discovery with Decision Trees
