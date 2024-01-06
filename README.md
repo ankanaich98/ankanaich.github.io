@@ -3,9 +3,9 @@
 #### Technical Skills: Python with experience in Django, Java with experience in Spring Boot, SQL, JavaScript, HTML, CSS
 
 ## Education 			        		
-- B.Sc, Computer Science and Engineering | Brac University (_September 2022_)<br>
-- Higer Secondary Certificate            | Dhaka Residential Model College (_December 2017_)								       		
-- Secondary School Certificate	         | Motijheel Ideal School and College (_December 2015_)	
+- B.Sc, Computer Science and Engineering | Brac University (_September 2022_)
+- Higer Secondary Certificate            | Dhaka Residential Model College (_2017_)								       		
+- Secondary School Certificate	         | Motijheel Ideal School and College (_2015_)	
 
 ## Work Experience
 **Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
