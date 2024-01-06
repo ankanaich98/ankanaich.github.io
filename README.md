@@ -26,9 +26,10 @@ This research endeavors to create a robust Computer-Aided Diagnosis (CAD) system
 ---
 <center>
 
-### Colon tissue with Adenocarcinomas (Left) and Benign colon tissue (Right)
+## Colon tissue with Adenocarcinomas (Left) and Benign colon tissue (Right)
 
 </center>
+
 
 ## Projects
 ### Data-Driven EEG Band Discovery with Decision Trees
