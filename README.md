@@ -58,8 +58,8 @@ Used **Matlab** to train over 100 machine learning models which estimated partic
 
 - Phone: +8801845682170
 - Email: ankan98aich@gmail.com
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/ankan-aich-811129286/)
-- GitHub: [Your GitHub Profile](https://github.com/ankanaich98)
+- LinkedIn: [in/ankan-aich-811129286/](https://www.linkedin.com/in/ankan-aich-811129286/)
+- GitHub: [github.com/ankanaich98](https://github.com/ankanaich98)
 
 
 Feel free to reach out to discuss collaborations, job opportunities, or any inquiries.
