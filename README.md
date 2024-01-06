@@ -1,11 +1,11 @@
-# Data Scientist
+# AI Engineer and Backend Developer
 
-#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
+#### Technical Skills: Python with experience in Django, Java with experience in Spring Boot, SQL, JavaScript, HTML, CSS
 
-## Education
-- Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		
-- M.S., Physics	| The University of Texas at Dallas (_December 2019_)	 			        		
-- B.S., Physics | The University of Texas at Dallas (_May 2017_)
+## Education 			        		
+- B.S., Computer Science and Engineering | Brac University (_September 2022_)
+- Higer Secondary Certificate | Dhaka Residential Model College (_2017_)								       		
+- Secondary School Certificate	| Motijheel Ideal School and College (_2015_)	
 
 ## Work Experience
 **Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
