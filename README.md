@@ -36,6 +36,8 @@ Colon tissue with Adenocarcinomas (Left) and Benign colon tissue (Right)
 
 Leveraging the power of the **YOLOv8** Object Detection Model, we have successfully achieved precise segmentation of various components within the human pelvis. The model, custom-trained on X-Ray images, exhibits exceptional performance when presented with user inputs, effectively segmenting distinct parts of the human pelvis. Complementing this advanced detection capability is a user-friendly interface crafted with **Django**, enhancing the overall user experience. This integrated solution seamlessly combines cutting-edge object detection technology with a sophisticated user interface, ushering in a new era of efficient and precise pelvic segmentation in medical imaging. 
 
+![X-Ray Segmentation](/Assets/xraysegmentation.jpg)
+
 ### Car Rental Management System 
 
 **Spring Boot**, a versatile **Java** framework, has been utilized to develop a comprehensive management system for handling cars, their associated branches, and customer management. This system facilitates the seamless creation of bookings for the available cars. The project is underpinned by a **MySQL** database, ensuring efficient and organized data storage for the optimal functioning of the management system.The frontend aspect is expertly handled through a combination of **JavaScript**, **HTML**, and **CSS**, ensuring a well-rounded and user-friendly interface.
