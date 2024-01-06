@@ -4,8 +4,8 @@
 
 ## Education 			        		
 - B.S., Computer Science and Engineering | Brac University (_September 2022_)
-- Higer Secondary Certificate | Dhaka Residential Model College (_December 2017_)								       		
-- Secondary School Certificate	| Motijheel Ideal School and College (_December 2015_)	
+- Higer Secondary Certificate            | Dhaka Residential Model College (_December 2017_)								       		
+- Secondary School Certificate	         | Motijheel Ideal School and College (_December 2015_)	
 
 ## Work Experience
 **Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
