@@ -16,13 +16,25 @@
 - Orchestrated end-to-end development, crafting both the backend and frontend components for dynamic web applications
 - Oversaw and maintained databases integral to the seamless functionality of web applications, ensuring optimal performance and reliability 
 
+## Research Experience
+### Early Stage Detection and Classification of Colon Cancer using Deep Learning on Histopathological Images
+
+This research endeavors to create a robust Computer-Aided Diagnosis (CAD) system designed to discriminate between different tissue cells, specifically focusing on distinguishing benign colon tissues from colon cancer tissues. Leveraging advanced deep learning techniques, Convolutional Neural Networks (CNNs) were employed to analyze histological slides, with a primary focus on colon adenocarcinomas and benign cells. The study involved the development and implementation of a CNN architecture, carefully tailored to the unique characteristics of digital pathology images. By utilizing the inherent capabilities of CNNs, the system aimed to automatically classify and distinguish between various tissue cell types with a particular emphasis on improving diagnostic accuracy in the context of colon pathology.
+
+![Colon Cancer](/Assets/colonimages.png)
+
+---
+<center>
+
+### Colon tissue with Adenocarcinomas (Left) and Benign colon tissue (Right)
+
+</center>
+
 ## Projects
 ### Data-Driven EEG Band Discovery with Decision Trees
 [Publication](https://www.mdpi.com/1424-8220/22/8/3048)
 
 Developed objective strategy for discovering optimal EEG bands based on signal power spectra using **Python**. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
-
-![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
 
 ### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
 [Publication](https://www.mdpi.com/1424-8220/22/11/4240)
