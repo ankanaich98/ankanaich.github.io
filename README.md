@@ -30,7 +30,7 @@ Colon tissue with Adenocarcinomas (Left) and Benign colon tissue (Right)
 
 </center>
 
-
+<br/><br/>
 ## Projects
 ### Data-Driven EEG Band Discovery with Decision Trees
 [Publication](https://www.mdpi.com/1424-8220/22/8/3048)
