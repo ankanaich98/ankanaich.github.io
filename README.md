@@ -34,17 +34,17 @@ Colon tissue with Adenocarcinomas (Left) and Benign colon tissue (Right)
 ## Projects
 ### Segmentation of Distinct Components within the Human Pelvis using Deep Learning Object Detection Model on X-Ray Images
 
-Developed objective strategy for discovering optimal EEG bands based on signal power spectra using **Python**. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
+Leveraging the power of the **YOLOv8** Object Detection Model, we have successfully achieved precise segmentation of various components within the human pelvis. The model, custom-trained on X-Ray images, exhibits exceptional performance when presented with user inputs, effectively segmenting distinct parts of the human pelvis. Complementing this advanced detection capability is a user-friendly interface crafted with **Django**, enhancing the overall user experience. This integrated solution seamlessly combines cutting-edge object detection technology with a sophisticated user interface, ushering in a new era of efficient and precise pelvic segmentation in medical imaging. 
 
 ### Car Rental Management System 
 
-Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
+**Spring Boot**, a versatile **Java** framework, has been utilized to develop a comprehensive management system for handling cars, their associated branches, and customer management. This system facilitates the seamless creation of bookings for the available cars. The project is underpinned by a **MySQL** database, ensuring efficient and organized data storage for the optimal functioning of the management system.The frontend aspect is expertly handled through a combination of **JavaScript**, **HTML**, and **CSS**, ensuring a well-rounded and user-friendly interface.
 
 ![Car Rental](/Assets/carrental.png)
 
 ### Interactive and Dynamic Blogsite
 
-Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
+The user interface is skillfully managed through a blend of **JavaScript**, **HTML**, and **CSS**, ensuring a comprehensive and user-centric frontend experience in this fully functional blog site powered by **Django**, a dynamic **Python** framework, and connected to a **MySQL** database. This platform allows users to create blog posts and incorporate media, such as images. With built-in authentication and custom authorization, users with different roles can perform tasks like post approval. It's a straightforward yet effective solution for a user-friendly blogging experience.
 
 ![Blogsite](/Assets/blogsite.png)
 
