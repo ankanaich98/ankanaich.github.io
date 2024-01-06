@@ -32,7 +32,7 @@ Colon tissue with Adenocarcinomas (Left) and Benign colon tissue (Right)
 
 <br/>
 ## Projects
-### Segementation of various parts of the Human Pelvis via YOLOv8 deep learning object detection model
+### Segmentation of Distinct Components within the Human Pelvis using Deep Learning Object Detection Model on X-Ray Images
 
 Developed objective strategy for discovering optimal EEG bands based on signal power spectra using **Python**. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
 
