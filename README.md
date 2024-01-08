@@ -17,9 +17,9 @@
 - Oversaw and maintained databases integral to the seamless functionality of web applications, ensuring optimal performance and reliability 
 
 ## Research Experience
-### Early Stage Detection and Classification of Colon Cancer using Deep Learning on Histopathological Images
+### Early Stage Detection and Classification of Colon Cancer using Deep Learning  and Explainable AI on Histopathological Images
 
-This research endeavors to create a robust system designed to discriminate between different tissue cells, specifically focusing on distinguishing benign colon tissues from colon cancer tissues. Leveraging advanced deep learning techniques, **Convolutional Neural Networks (CNNs)** were employed to analyze histological slides, with a primary focus on colon adenocarcinomas and benign cells. The study involved the development and implementation of a CNN architecture, carefully tailored to the unique characteristics of digital pathology images. By utilizing the inherent capabilities of CNNs, the system aimed to automatically classify and distinguish between various tissue cell types with a particular emphasis on improving diagnostic accuracy in the context of colon pathology.
+This research endeavors to create a robust system designed to discriminate between different tissue cells, specifically focusing on distinguishing benign colon tissues from colon cancer tissues. Leveraging advanced deep learning techniques, **Convolutional Neural Networks (CNNs)** were employed to analyze histological slides, with a primary focus on colon adenocarcinomas and benign cells. The study involved the development and implementation of a small CNN model and CNN architectures such as **VGG16** and **RESNET50**. To improve model understanding and accuracy, optimization strategies such as Explainable AI methods like **Lime** was used. By utilizing the inherent capabilities of CNNs, the system aimed to automatically classify and distinguish between various tissue cell types with a particular emphasis on improving diagnostic accuracy.
 
 ![Colon Cancer](/Assets/colonimagesm.png)
 
