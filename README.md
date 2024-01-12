@@ -50,6 +50,13 @@ The user interface is skillfully managed through a blend of **JavaScript**, **HT
 
 ![Blogsite](/Assets/blogsite.png)
 
+## Certifications
+
+- **Supervised Machine Learning: Regression and Classification**
+  - Platform: Coursera
+  - Issued by: Stanford Online
+  - [View Certificate](https://coursera.org/share/460fabe5c28616c21b211dc03d127285)
+
 ## Contact Information
 
 - Phone: +8801845682170
