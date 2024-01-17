@@ -54,8 +54,13 @@ The user interface is skillfully managed through a blend of **JavaScript**, **HT
 
 - **Supervised Machine Learning: Regression and Classification**
   - Platform: Coursera
-  - Issued by: Stanford Online
+  - Issued by: Stanford Online, DeepLearning.AI
   - [View Certificate](https://coursera.org/share/460fabe5c28616c21b211dc03d127285)
+    
+- **Advanced Learning Algorithms**
+  - Platform: Coursera
+  - Issued by: Stanford Online, DeepLearning.AI
+  - [View Certificate](https://coursera.org/share/c2a5d70ee1f8a786fca7f43d04d84859)
 
 ## Contact Information
 
