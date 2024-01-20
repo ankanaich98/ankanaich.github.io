@@ -1,4 +1,4 @@
-# AI Engineer and Backend Developer
+# AI Engineer and Full Stack Developer
 
 #### Technical Skills: Python with experience in Django, Java with experience in Spring Boot, SQL, JavaScript, HTML, CSS
 
