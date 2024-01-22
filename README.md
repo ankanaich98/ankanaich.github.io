@@ -62,7 +62,7 @@ The user interface is skillfully managed through a blend of **JavaScript**, **HT
   - Issued by: Stanford Online, DeepLearning.AI
   - [View Certificate](https://coursera.org/share/c2a5d70ee1f8a786fca7f43d04d84859)
 
-- **Pyrhon (Basic)**
+- **Python (Basic)**
   - Platform: HackerRank
   - Issued by: HackerRank
   - [View Certificate](https://www.hackerrank.com/certificates/fd0d26cd3688)
