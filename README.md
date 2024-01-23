@@ -55,27 +55,17 @@ The user interface is skillfully managed through a blend of **JavaScript**, **HT
 - **Machine Learning**
   - Platform: Coursera
   - Issued by: Stanford Online, DeepLearning.AI
-  - [View Specialization Certificate](#URL_Specialization)
+  - [View Specialization Certificate](https://coursera.org/share/44700b0742221ad9ee2a03cca9aaa189)
   - **Individual Courses:**
     - Supervised Machine Learning: Regression and Classification
       - Issued by: Stanford Online, DeepLearning.AI
-      - [View Certificate](#URL_MLF)
+      - [View Certificate](https://coursera.org/share/460fabe5c28616c21b211dc03d127285)
     - Advanced Learning Algorithms
       - Issued by: Stanford Online, DeepLearning.AI
-      - [View Certificate](#URL_AML)
+      - [View Certificate](https://coursera.org/share/c2a5d70ee1f8a786fca7f43d04d84859)
     - Unsupervised Learning, Recommenders, Reinforcement Learning
       - Issued by: Stanford Online, DeepLearning.AI
-      - [View Certificate](#URL_DL)
-
-- **Supervised Machine Learning: Regression and Classification**
-  - Platform: Coursera
-  - Issued by: Stanford Online, DeepLearning.AI
-  - [View Certificate](https://coursera.org/share/460fabe5c28616c21b211dc03d127285)
-    
-- **Advanced Learning Algorithms**
-  - Platform: Coursera
-  - Issued by: Stanford Online, DeepLearning.AI
-  - [View Certificate](https://coursera.org/share/c2a5d70ee1f8a786fca7f43d04d84859)
+      - [View Certificate](https://coursera.org/share/ddaaf08ef38748d45e9b410457272259)
 
 - **Python (Basic)**
   - Platform: HackerRank
