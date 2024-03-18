@@ -9,8 +9,8 @@
 
 ## Work Experience
 **Machine Learning Engineer @ DevTechGuru (_December 2023 - Present_)**
-- Trained and Enhanced the efficiency of computer vision models through optimization techniques for superior performance
-- Designed intuitive user interfaces to facilitate user interaction with machine learning applications
+- Training and enhancing the efficiency of computer vision models through optimization techniques for superior performance
+- Designing intuitive user interfaces to facilitate user interaction with machine learning applications
 
 **Software Intern @ Tech Cloud Ltd. (_May 2023 - August 2023_)**
 - Orchestrated end-to-end development, crafting both the backend and frontend components for dynamic web applications
