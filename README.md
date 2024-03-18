@@ -8,7 +8,7 @@
 - Secondary School Certificate	         | Motijheel Ideal School and College (_2015_)	
 
 ## Work Experience
-**AI Intern @ DevTechGuru (_December 2023 - Present_)**
+**Machine Learning Engineer @ DevTechGuru (_December 2023 - Present_)**
 - Trained and Enhanced the efficiency of computer vision models through optimization techniques for superior performance
 - Designed intuitive user interfaces to facilitate user interaction with machine learning applications
 
@@ -66,6 +66,26 @@ The user interface is skillfully managed through a blend of **JavaScript**, **HT
     - Unsupervised Learning, Recommenders, Reinforcement Learning
       - Issued by: Stanford Online, DeepLearning.AI
       - [View Certificate](https://coursera.org/share/ddaaf08ef38748d45e9b410457272259)
+- **Deep Learning**
+  - Platform: Coursera
+  - Issued by:  DeepLearning.AI
+  - [View Specialization Certificate](https://coursera.org/share/7bc6e7e9e83ff9a81db10f1756d00d36)
+  - **Individual Courses:**
+    - Neural Networks and Deep Learning
+      - Issued by:  DeepLearning.AI
+      - [View Certificate](https://coursera.org/share/eb761cd06989c5736cf36c166467557f)
+    - Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization
+      - Issued by:  DeepLearning.AI
+      - [View Certificate](https://coursera.org/share/0dee8949ada879dcbee659546e30071a)
+    - Structuring Machine Learning Projects
+      - Issued by:  DeepLearning.AI
+      - [View Certificate](https://coursera.org/share/641c262109d9d25cdd8bcec78fc5f3c0)
+    - Convolutional Neural Networks
+      - Issued by:  DeepLearning.AI
+      - [View Certificate](https://coursera.org/share/2f2a9eb1734ae2ed82f3977f6bb8ea97)
+    - Sequence Models
+      - Issued by:  DeepLearning.AI
+      - [View Certificate](https://coursera.org/share/47c5b3439f6ceb1a305550bf9807ada2)
 
 - **Python (Basic)**
   - Platform: HackerRank
