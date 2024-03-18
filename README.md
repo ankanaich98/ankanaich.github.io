@@ -1,6 +1,6 @@
 # AI Engineer and Full Stack Developer
 
-#### Technical Skills: Python with experience in Django, Java with experience in Spring Boot, SQL, JavaScript, HTML, CSS
+#### Technical Skills: Python with experience in PyTorch, Scikit-learn, Django, Java with experience in Spring Boot, MySQL, JavaScript, HTML, CSS
 
 ## Education 			        		
 - B.Sc, Computer Science and Engineering | Brac University (_September 2022_)
