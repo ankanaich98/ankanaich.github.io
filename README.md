@@ -101,3 +101,8 @@ The user interface is skillfully managed through a blend of **JavaScript**, **HT
 
 
 Feel free to reach out to discuss collaborations, job opportunities, or any inquiries.
+<style>
+  .footer {
+    display: none;
+  }
+</style>
