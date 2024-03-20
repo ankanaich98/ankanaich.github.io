@@ -96,7 +96,7 @@ The user interface is skillfully managed through a blend of **JavaScript**, **HT
 
 - Phone: +8801845682170
 - Email: ankan98aich@gmail.com
-- LinkedIn: [in/ankan-aich-811129286/](https://www.linkedin.com/in/ankan-aich-811129286/)
+- LinkedIn: [in/ankan-aich-811129286/](www.linkedin.com/in/ankan-aich)
 - GitHub: [github.com/ankanaich98](https://github.com/ankanaich98)
 
 
