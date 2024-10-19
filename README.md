@@ -52,6 +52,30 @@ The user interface is skillfully managed through a blend of **JavaScript**, **HT
 
 ## Certifications
 
+- **Data Structures and Algorithms**
+  - Platform: Coursera
+  - Issued by:  University of California San Diego
+  - [View Specialization Certificate](https://coursera.org/share/c57c81ece48f459bca354c57070bdaa0)
+  - **Individual Courses:**
+    - Algorithmic Toolbox
+      - Issued by: University of California San Diego
+      - [View Certificate](https://coursera.org/share/9b9f80179a934065141a01558aa9889b)
+    - Data Structures
+      - Issued by:  University of California San Diego
+      - [View Certificate](https://coursera.org/share/5b1795db9e909c286ba5dd25ea4acd37)
+    - Algorithms on Graphs
+      - Issued by:  University of California San Diego
+      - [View Certificate](https://coursera.org/share/80ee9c2c8c20be0de761c517cf3bc291)
+    - Algorithms on Strings
+      - Issued by:  University of California San Diego
+      - [View Certificate](https://coursera.org/share/6bb05cedc9cc4278a35457323c51696e)
+    - Advanced Algorithms and Complexity
+      - Issued by:  University of California San Diego
+      - [View Certificate](https://coursera.org/share/3f20a54c62eb3e477b57aab856858074)
+    - Genome Assembly Programming Challenge
+      - Issued by:  University of California San Diego
+      - [View Certificate](https://coursera.org/share/5c6018b72e893af90734c1d0ac5906c4)
+      
 - **Machine Learning**
   - Platform: Coursera
   - Issued by: Stanford Online, DeepLearning.AI
@@ -66,6 +90,7 @@ The user interface is skillfully managed through a blend of **JavaScript**, **HT
     - Unsupervised Learning, Recommenders, Reinforcement Learning
       - Issued by: Stanford Online, DeepLearning.AI
       - [View Certificate](https://coursera.org/share/ddaaf08ef38748d45e9b410457272259)
+  
 - **Deep Learning**
   - Platform: Coursera
   - Issued by:  DeepLearning.AI
